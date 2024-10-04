@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @yashv373
+- 👋 Hi, I’m Yashvardhan Singh
 - 👀 I’m interested in VLSI, Microelectronics, Spintronics, Hyperloop.
 - 🌱 I’m currently learning VLSI at MIT, Manipal.
-
-
