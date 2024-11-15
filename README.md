@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Electronics Engineering student specializing in VLSI Design at MIT Manipal<br>🔬 Researched hybrid CMOS-MTJ architectures at IIT BHU as Research Intern<br>🚀 ex-Electronics engineer for LoopMIT’s Hyperloop team, represented innovations at IIT Madras Global Hyperloop Conference.<br>🎨 Self taught graphic designer and entrepreneurship enthusiast<br>🌱 Volunteer: Teach For India, Unwind
+⚡ Electronics Engineering student specializing in VLSI Design at MIT Manipal<br>🔬 Research interests: Spintronics, CMOS-MTJ Architectures, Nanoelectronics, Hyperloop<br>🚀 ex-Electronics engineer for LoopMIT’s Hyperloop team<br>🎨 Self taught graphic designer and entrepreneurship enthusiast<br>🌱 Social-Volunteer: Teach For India, Unwind
 
 
 ## 🌐 Socials:
