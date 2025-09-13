@@ -1,3 +1,10 @@
+# <p align="center"> 夢 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2d4bb421-1bd8-48c9-97b2-fe5bc82c6a7a" width="600">
+</p>
+
+---
+
 <h1 align="center">Yashvardhan Singh </h1>
 <h3 align="center">Chip Architect & Researcher | AI • HFT • Cloud Hardware Enthusiast</h3>
 
@@ -35,12 +42,7 @@ Figma, Photoshop, Illustrator, Blender, Canva, Framer
 Git/GitHub, Arduino, Notion, Markdown  
 
 ---
-# <p align="center"> 夢 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2d4bb421-1bd8-48c9-97b2-fe5bc82c6a7a" width="600">
-</p>
 
----
 
 # 📊 Insights  
 <p align="center">
