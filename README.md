@@ -9,6 +9,7 @@
 🔧 Key Interests: AI accelerators, High-Frequency Trading hardware, and Cloud-scale chips  
 🔬 More Explorations: Spintronics, CMOS–MTJ Architectures, Nanoelectronics  
 🚄 Former Electronics Engineer @ LoopMIT Hyperloop Student Team
+⛩️ Former Intern @ IIT, BHU (Varanasi) , BeePrecise
 🎨 Self-taught designer & 💡 entrepreneurship enthusiast  
 🌱 Volunteer: Teach For India, Unwind, etc.  
 
