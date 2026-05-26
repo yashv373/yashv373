@@ -6,16 +6,17 @@
 ---
 
 <h1 align="center">Yashvardhan Singh </h1>
-<h3 align="center">Chip Architect & Researcher | AI • HFT • Cloud Hardware Enthusiast</h3>
+<h3 align="center">Chip Architect & Researcher | AI Hardware Enthusiast</h3>
 
 ---
 
 # 💫 About Me  
-Incoming Intern @ STMicroelectronics India
-Electronics Engineering (VLSI Design) Undergrad @ MIT Manipal  
-Co-Founder and Ex-President @ [ChipMIT](https://chipmit.in) – India’s first undergrad chip design student club  
-Research: Spintronics, CMOS–MTJ Architectures, Nanoelectronics, AI accelerators, Computer Architecture
-Formerly @ IIT, BHU (Varanasi) , BeePrecise, LoopMIT Hyperloop 
+
+Incoming Intern @ [STMicroelectronics India](https://www.linkedin.com/company/stmicroelectronics/)  \
+Electronics Engineering (VLSI Design) Undergrad @ MIT Manipal  \
+Co-Founder and Ex-President @ [ChipMIT](https://chipmit.in) – India’s first undergrad chip design student club  \
+Research: Spintronics, CMOS–MTJ Architectures, Nanoelectronics, AI accelerators, Computer Architecture\
+Formerly @ [IIT-BHU (Varanasi)](https://www.iitbhu.ac.in/dept/ece) , [BeePrecise](https://beeprecise.io), [LoopMIT Hyperloop](https://loopmit.in) 
  
 
 ---
