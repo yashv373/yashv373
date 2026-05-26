@@ -11,14 +11,12 @@
 ---
 
 # 💫 About Me  
-⚡ Electronics Engineering (VLSI Design) @ MIT Manipal  
-⚡ President @ [ChipMIT](https://chipmit.in) – India’s first undergrad chip design student club  
-🔧 Key Interests: AI accelerators, High-Frequency Trading hardware, and Cloud-scale chips  
-🔬 More Explorations: Spintronics, CMOS–MTJ Architectures, Nanoelectronics  
-🚄 Former Electronics Engineer @ LoopMIT Hyperloop Student Team
-⛩️ Former Intern @ IIT, BHU (Varanasi) , BeePrecise
-🎨 Self-taught designer & 💡 entrepreneurship enthusiast  
-🌱 Volunteer: Teach For India, Unwind, etc.  
+Incoming Intern @ STMicroelectronics India
+Electronics Engineering (VLSI Design) Undergrad @ MIT Manipal  
+Co-Founder and Ex-President @ [ChipMIT](https://chipmit.in) – India’s first undergrad chip design student club  
+Research: Spintronics, CMOS–MTJ Architectures, Nanoelectronics, AI accelerators, Computer Architecture
+Formerly @ IIT, BHU (Varanasi) , BeePrecise, LoopMIT Hyperloop 
+ 
 
 ---
 
@@ -30,16 +28,9 @@
 
 # 💻 My Tech Stack  
 **Chip Design & Hardware**  
-Verilog, SystemVerilog, TCL  
+Verilog, SystemVerilog, C, Python
 Cadence (Virtuoso, Genus, Innovus, NCSim/Xcelium)  
-Synopsys (HSPICE) | ngSpice | OpenROAD | Yosys | Magic | GTKWave  
-
-**Software & Data**  
-C, Python, NumPy, Pandas, Matplotlib  
-
-**Creative & Tools**  
-Figma, Photoshop, Illustrator, Blender, Canva, Framer  
-Git/GitHub, Arduino, Notion, Markdown  
+Synopsys (HSPICE) | ngSpice | OpenROAD | Yosys | Magic | OpenSTA  
 
 ---
 
