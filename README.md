@@ -37,15 +37,7 @@ Synopsys (HSPICE) | ngSpice | OpenROAD | Yosys | Magic | OpenSTA
 
 
 # 📊 Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashv373&show_icons=true&theme=radical&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashv373&layout=compact&theme=radical&hide_border=true" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashv373&theme=radical&hide_border=true" height="165">
-</p>
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashv373&label=Profile%20views&color=0e75b6&style=flat" alt="yashv373" /> </p>
 
 ---
