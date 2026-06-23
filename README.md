@@ -15,7 +15,7 @@
 Incoming Intern @ [STMicroelectronics India](https://www.linkedin.com/company/stmicroelectronics/)  \
 Electronics Engineering (VLSI Design) Undergrad @ MIT Manipal  \
 Co-Founder and Ex-President @ [ChipMIT](https://chipmit.in) – India’s first undergrad chip design student club  \
-Research: Spintronics, CMOS–MTJ Architectures, Nanoelectronics, AI accelerators, Computer Architecture\
+Research: Spintronics, CMOS–MTJ Architectures, ASICs, AI accelerators, Computer Architecture\
 Formerly @ [IIT-BHU (Varanasi)](https://www.iitbhu.ac.in/dept/ece) , [BeePrecise](https://beeprecise.io), [LoopMIT Hyperloop](https://loopmit.in) 
  
 
