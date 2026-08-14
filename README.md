@@ -12,7 +12,7 @@
 
 # 💫 About Me  
 
-Incoming Intern @ [STMicroelectronics India](https://www.linkedin.com/company/stmicroelectronics/)  \
+IP & Platform Design Intern @ [STMicroelectronics India](https://www.linkedin.com/company/stmicroelectronics/)  \
 Electronics Engineering (VLSI Design) Undergrad @ MIT Manipal  \
 Co-Founder and Ex-President @ [ChipMIT](https://chipmit.in) – India’s first undergrad chip design student club  \
 Research: Spintronics, CMOS–MTJ Architectures, ASICs, AI accelerators, Computer Architecture\
