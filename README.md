@@ -7,6 +7,7 @@
 
 <h1 align="center">Yashvardhan Singh </h1>
 <h3 align="center">Chip Architect & Researcher | AI Hardware Enthusiast</h3>
+<p align="center"><a href="https://yashv373.github.io"><b>🌐 Website: yashv373.github.io</b></a></p>
 
 ---
 
